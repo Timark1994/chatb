@@ -3,7 +3,7 @@ session_start();
 ?>
 <!doctype html>
 <html>
-<head><title>sample page</title>
+<head><title>complex page</title>
 <link rel="stylesheet" href="stylesheets/contain.css"/>
 </head>
 <body id="container" >
