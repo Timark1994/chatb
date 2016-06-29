@@ -1,7 +1,7 @@
 <?php require_once("connection.php") ?>
 <!doctype html>
 <html>
-<head><title>sample page</title>
+<head><title>sample pagemmmmmm</title>
 <link rel="stylesheet" href="stylesheets/contain.css"/>
 </head>
 <body id="container" >
