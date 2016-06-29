@@ -2,7 +2,7 @@
 session_start();
 ?>
 <?php  
-$f_name=$_POST['first_name'];
+$f_namenn=$_POST['first_name'];
 $s_name=$_POST['second_name'];
 $user_name=$_POST['username'];
 $password=$_POST['password'];
